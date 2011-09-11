@@ -1,0 +1,9 @@
+production:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: p851r301_YFTQ
+  pool: 5
+  username: p851r301_YFTQ
+  password: 7yt4dvh5
+  socket: /tmp/mysql.sock
